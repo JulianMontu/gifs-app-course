@@ -1,0 +1,5 @@
+#sidebar{
+    /* Quiere decir que es el 100 porciento del view */
+    height: 100vh;
+    width: 250px;
+}
